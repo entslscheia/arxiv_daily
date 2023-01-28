@@ -1,4 +1,4 @@
-site_title = "MyArxiv"
+site_title = "arXiv daily"
 limit_days = 7
 cache_url = "https://entslscheia.github.io/arxiv_daily/cache.json"
 
