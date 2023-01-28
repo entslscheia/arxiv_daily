@@ -1,8 +1,8 @@
-let titles_type = ["Knowledge", "Reasoning", "Grounding", "Semantic Parsing", "Knowledge Bases", "Knowledge Base"];
-let titles_model = ["GPT", "OPT"];
-let titles_method = ["Pre-train", "Pretrain", "Prompt", "Chain-of-Thought", "Prompting"];
+let titles_type = ["Dataset", "Survey", "Review", "Overview"];
+let titles_model = ["BERT", "GPT", "Transformer"];
+let titles_method = ["Pre-train", "Pretrain", "Prompt", "Self-Supervised"];
 let titles =  titles_model + titles_method + titles_type;
-let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", "Percy Liang", "Jason Wei", "Luke Zettlemoyer", "Yejin Choi", "Jason Eisner", "Graham Neubig", "Danqi Chen", "Jonathan Berant", "Tay Yi"];
+let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio"];
 
 let conferences = [
     // AI
