@@ -2,7 +2,7 @@ let titles_keyword = ["Knowledge", "Knowledge Base", "KB", "Reasoning", "Groundi
 let titles_model = ["GPT", "OPT", "Transformer"];
 let titles_method = ["Prompt", "Few-shot", "Prompting", "Tuning", "Zero-shot"];
 let titles =  titles_model + titles_method + titles_keyword;
-let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", "Percy Liang", "Danqi Chen", "Yejin Choi", "Jonathan Berant", "Jason Wei", "Luke Zettlemoyer", "Jason Eisner", "Christopher D. Manning", "Chelsea Finn"];
+let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", "Percy Liang", "Danqi Chen", "Yejin Choi", "Jonathan Berant", "Jason Wei", "Luke Zettlemoyer", "Jason Eisner", "Christopher D. Manning", "Chelsea Finn", "Tay Yi", "Scott Yih"];
 
 let conferences = [
     // AI
