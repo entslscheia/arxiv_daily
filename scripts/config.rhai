@@ -8,7 +8,7 @@ let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio",
 "Tay Yi", "Dan Roth", "Dan Klein", "Mirella Lapata", "Scott Yih", "Yoav", 
 "Xiang Ren", "William Wang", "Jacob Andreas", "Graham Neubig", "Noah Smith", 
 "Matt Gardner", "Ben Bogin", "Sameer Singh", "Jure Leskovec", "Heng Ji", 
-"Jessy Li", "He He"];
+"Jessy Li", "He He", "William Cohen", "Dan Jurafsky", "Hal Daume III"];
 
 let conferences = [
     // AI
