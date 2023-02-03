@@ -5,7 +5,7 @@ let titles =  titles_model + titles_method + titles_keyword;
 let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", 
 "Percy Liang", "Danqi Chen", "Yejin Choi", "Jonathan Berant", "Jason Wei", 
 "Luke Zettlemoyer", "Jason Eisner", "Christopher D. Manning", "Chelsea Finn", 
-"Yi Tay", "Dan Roth", "Dan Klein", "Mirella Lapata", "Scott Yih", "Wen-tau" "Yoav", 
+"Yi Tay", "Dan Roth", "Dan Klein", "Mirella Lapata", "Scott Yih", "Wen-tau", "Yoav", 
 "Xiang Ren", "William Wang", "Jacob Andreas", "Graham Neubig", "Noah Smith", 
 "Matt Gardner", "Ben Bogin", "Sameer Singh", "Jure Leskovec", "Heng Ji", 
 "Jessy Li", "He He", "William Cohen", "Dan Jurafsky", "Hal Daume III", "Quoc Le"];
